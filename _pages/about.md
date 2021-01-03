@@ -1,5 +1,7 @@
 ---
 permalink: /about/
+header:
+  image: /assets/images/city-image.jpg
 title: "About"
 ---
 
